@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-api/spring-cloud-api.iml" filepath="$PROJECT_DIR$/spring-cloud-api/spring-cloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-dept-80/spring-cloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-dept-80/spring-cloud-consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-7001/spring-cloud-eureka-7001.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-7001/spring-cloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-7002/spring-cloud-eureka-7002.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-7002/spring-cloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider-dept-8081/spring-cloud-provider-dept-8081.iml" filepath="$PROJECT_DIR$/spring-cloud-provider-dept-8081/spring-cloud-provider-dept-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider-dept-8082/spring-cloud-provider-dept-8082.iml" filepath="$PROJECT_DIR$/spring-cloud-provider-dept-8082/spring-cloud-provider-dept-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider-dept-8083/spring-cloud-provider-dept-8083.iml" filepath="$PROJECT_DIR$/spring-cloud-provider-dept-8083/spring-cloud-provider-dept-8083.iml" />
+    </modules>
+  </component>
+</project>

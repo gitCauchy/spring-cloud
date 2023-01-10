@@ -1,0 +1,31 @@
+server:
+  port: 8082
+
+mybatis:
+  type-aliases-package: com.cauchy.springcloud.pojo
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+# spring的配置
+spring:
+  application:
+    name: provider
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/spring-cloud?serverTimezone=GMT
+    username: root
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+# Eureka的配置
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+  instance:
+    instance-id: provider-dept-8082 #修改Eureka上的默认描述信息
+
+#info配置
+info:
+  app.name: cauchy-springcloud #项目的名称
+  company.name: com.cauchy #公司的名称

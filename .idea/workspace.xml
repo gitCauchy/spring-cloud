@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fab0f57b-05fb-4559-bd34-08701600f293" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JtYgbcFebeFh9AhqDVy93ItrzB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-provider-dept-8083/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8083\src\main\resources" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8082\src\main\resources" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8083\src\main\java" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8082\src\main\java" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-eureka-7003\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8081\src\main\resources\mybatis\mapper" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8081\src\main\resources\mybaits" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8081\src\main\resources\mapper" />
+      <recent name="C:\Users\Cauchy\IdeaProjects\spring-cloud\spring-cloud-provider-dept-8081\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cauchy.springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FeignDeptConsumer">
+    <configuration name="FeignDeptConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cauchy.springcloud.FeignDeptConsumer" />
+      <module name="spring-cloud-consumer-dept-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cauchy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-consumer-dept-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cauchy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cauchy.springcloud.DeptConsumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-provider-dept-8083" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cauchy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cauchy.springcloud.DeptProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-provider-dept-8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cauchy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cauchy.springcloud.DeptProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignDeptConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-consumer-dept-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cauchy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cauchy.springcloud.FeignDeptConsumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DeptProvider" />
+      <item itemvalue="Spring Boot.DeptProvider (1)" />
+      <item itemvalue="Spring Boot.DeptConsumer" />
+      <item itemvalue="Application.FeignDeptConsumer" />
+      <item itemvalue="Spring Boot.FeignDeptConsumer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FeignDeptConsumer" />
+        <item itemvalue="Application.FeignDeptConsumer" />
+        <item itemvalue="Spring Boot.DeptConsumer" />
+        <item itemvalue="Spring Boot.DeptProvider" />
+        <item itemvalue="Spring Boot.DeptProvider (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fab0f57b-05fb-4559-bd34-08701600f293" name="Changes" comment="" />
+      <created>1672898960540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672898960540</updated>
+      <workItem from="1672898961750" duration="6742000" />
+      <workItem from="1673227791942" duration="13572000" />
+      <workItem from="1673252423299" duration="1173000" />
+      <workItem from="1673308959281" duration="6689000" />
+      <workItem from="1673315771573" duration="5578000" />
+      <workItem from="1673321417101" duration="10516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
